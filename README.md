@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Renata Danielewicz, a Software Tester 🧐 from Poland.</h1> 
-<hr style="height:1px; color:gray;">
+
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RenataDanielewicz) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renata-danielewicz/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:r.danielewicz91@gmail.com)
 
@@ -24,22 +24,9 @@
 - 🎬 When I am free, I watch Scandinavian 🦇 thrillers  and practice Pilates. 🤸
 <br>
 
-### 🔨 Technologies and Tools:
+### 🔨 Technologies & Tools:
 
-- Jira
-- TestRail
-
-- SQL
-- Postman
-- ChatGPT  🤖
-
-- Slack
-- Trello
-- Asana
-
-- WordPress
-- Adobe Photoshop
-- Canva
+- Jira, TestRail, SQL, Postman, ChatGPT  🤖, Slack, Trello, Asana, WordPress, Adobe Photoshop, Canva
 <br/>
 
 ### 🧠 Skills:
