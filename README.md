@@ -2,7 +2,7 @@
 <h1>Hi, I'm Renata Danielewicz, a Software Tester 🧐 from Poland.</h1> 
 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RenataDanielewicz) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renata-danielewicz/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:r.danielewicz91@gmail.com)
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/RenataDanielewicz) [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/renata-danielewicz/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:r.danielewicz91@gmail.com)
 
 
 <p>I'm taking my first steps as a Software Tester. I have completed a <b>QA Engineer course</b> ⚙️ where I gained basic knowledge and skills in <b>manual testing</b> and <b>creating test documentation.</b> 📝 I hold the <b>ISTQB®</b> Foundation Level certificate. I have experience in working with tools 🔨 such as <b>Postman, TestRail</b> and <b>Jira.</b> I am <b>meticulous</b> 📐, precise, <b>enthusiastic</b> about my work, and <b>motivated</b> 💪 to contribute my acquired skills to developing software projects as a manual software tester.</p>
