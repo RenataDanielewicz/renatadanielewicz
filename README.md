@@ -7,11 +7,7 @@
 
 <p>I'm taking my first steps as a Software Tester. I have completed a <b>QA Engineer course</b> ⚙️ where I gained basic knowledge and skills in <b>manual testing</b> and <b>creating test documentation.</b> 📝 I hold the <b>ISTQB®</b> Foundation Level certificate. I have experience in working with tools 🔨 such as <b>Postman, TestRail</b> and <b>Jira.</b> I am <b>meticulous</b> 📐, precise, <b>enthusiastic</b> about my work, and <b>motivated</b> 💪 to contribute my acquired skills to developing software projects as a manual software tester.</p>
 
-
-<br/>
-
-<!-- Talking about you -->
-**🧐 More About Me:**
+#### 🧐 More About Me:
 
 - 👨🏽‍💻 I currently run an online store [Candelamore.pl](https://candelamore.pl/) ✨
 - 🌱 I started learning JavaScript
@@ -22,14 +18,13 @@
 - 🎨 I love using Canva. I create content for social media 📱 and my company blog. ⌨️
 - 📫 You can reach me at r.danielewicz91@gmail.com
 - 🎬 When I am free, I watch Scandinavian 🦇 thrillers  and practice Pilates. 🤸
-<br>
 
-### 🔨 Technologies & Tools:
+#### 🔨 Technologies & Tools:
 
 - Jira, TestRail, SQL, Postman, ChatGPT  🤖, Slack, Trello, Asana, WordPress, Adobe Photoshop, Canva
-<br/>
 
-### 🧠 Skills:
+
+#### 🧠 Skills:
 
 - 📝 <b>Creating test documentation:</b>
   - Bug Reports
